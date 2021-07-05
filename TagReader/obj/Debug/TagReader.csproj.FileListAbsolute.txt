@@ -1,0 +1,235 @@
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\bin\Debug\TagReader.exe
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\bin\Debug\TagReader.pdb
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\obj\Debug\TagReader.exe
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\obj\Debug\TagReader.pdb
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\obj\Debug\TagReader.Form_TagReader.resources
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\bin\Debug\LLRP.dll
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+E:\VS2013_RTM_ULT_CHS\projects\TagReader\TagReader\bin\Debug\log4net.dll
+E:\TagReader\TagReader\obj\Debug\TagReader.exe
+E:\TagReader\TagReader\obj\Debug\TagReader.pdb
+E:\TagReader\TagReader\bin\Debug\TagReader.exe
+E:\TagReader\TagReader\bin\Debug\TagReader.pdb
+E:\TagReader\TagReader\bin\Debug\LLRP.dll
+E:\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+E:\TagReader\TagReader\bin\Debug\log4net.dll
+E:\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+E:\TagReader\TagReader\obj\Debug\TagReader.Form_TagReader.resources
+E:\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+E:\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.exe
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.pdb
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.exe
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.pdb
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\TagReader.exe
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\TagReader.pdb
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\LLRP.dll
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\log4net.dll
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.FormTagReader.resources
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\TagReader.exe
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\TagReader.pdb
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\LLRP.dll
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\bin\Debug\log4net.dll
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.FormTagReader.resources
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.AboutBox.resources
+C:\Users\MarinYoung\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.AboutBox.resources
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+C:\Users\Marin\OneDrive\Documents\Code\RFID-READER\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.exe
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.pdb
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\bin\Debug\TagReader.exe
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\bin\Debug\TagReader.pdb
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\bin\Debug\LLRP.dll
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\bin\Debug\log4net.dll
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.AboutBox.resources
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.FormTagReader.resources
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+D:\Microsoft Visual Studio 2013 Ultimate\Projects\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.exe
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\bin\Debug\TagReader.exe
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\bin\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\bin\Debug\LLRP.dll
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\bin\Debug\log4net.dll
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.AboutBox.resources
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.FormTagReader.resources
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+C:\Users\rfid\Desktop\cky\TagReader2016.7.20\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.exe
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\TagReader\TagReader\bin\Debug\TagReader.exe
+C:\Users\rfid\Desktop\TagReader\TagReader\bin\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\TagReader\TagReader\bin\Debug\LLRP.dll
+C:\Users\rfid\Desktop\TagReader\TagReader\bin\Debug\LLRP.Impinj.dll
+C:\Users\rfid\Desktop\TagReader\TagReader\bin\Debug\log4net.dll
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.AboutBox.resources
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.FormTagReader.resources
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+C:\Users\rfid\Desktop\TagReader\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.exe
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.AboutBox.resources
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.FormTagReader.resources
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\bin\Debug\TagReader.exe
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\bin\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\bin\Debug\LLRP.dll
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\bin\Debug\LLRP.Impinj.dll
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\bin\Debug\log4net.dll
+C:\Users\rfid\Desktop\TagReader - cky\TagReader\obj\Debug\TagReader.csproj.CoreCompileInputs.cache
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\bin\Debug\TagReader.exe
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\bin\Debug\TagReader.pdb
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\bin\Debug\LLRP.dll
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\bin\Debug\LLRP.Impinj.dll
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\bin\Debug\log4net.dll
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.csprojResolveAssemblyReference.cache
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.AboutBox.resources
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.FormTagReader.resources
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.csproj.GenerateResource.Cache
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.csproj.CoreCompileInputs.cache
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.exe
+C:\Users\rfid\Desktop\TagReader - wg\TagReader\obj\Debug\TagReader.pdb
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\TagReader.exe
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\TagReader.pdb
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Controls.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Genetic.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Imaging.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Imaging.Formats.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Math.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Neuro.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Video.DirectShow.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Video.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Vision.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\LLRP.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\LLRP.Impinj.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\log4net.dll
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Controls.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Genetic.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Imaging.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Imaging.Formats.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Math.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Neuro.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Video.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Video.DirectShow.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Vision.xml
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.AboutBox.resources
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.FormTagReader.resources
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.csproj.CopyComplete
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.exe
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.pdb
+D:\VisualStudio\Projects\TagReader - wg\TagReader\obj\Debug\TagReader.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\TagReader - wg\TagReader\bin\Debug\AForge.Controls.pdb
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\Accord.dll.config
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\TagReader.exe
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\TagReader.pdb
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Controls.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Genetic.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Imaging.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Imaging.Formats.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Math.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Neuro.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Video.DirectShow.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Video.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Vision.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\LLRP.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\LLRP.Impinj.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\log4net.dll
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Controls.pdb
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Controls.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Genetic.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Imaging.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Imaging.Formats.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Math.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Neuro.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Video.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Video.DirectShow.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\bin\Debug\AForge.Vision.xml
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.AboutBox.resources
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.FormTagReader.resources
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.csproj.CopyComplete
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.exe
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.pdb
+D:\VisualStudio\Projects\MultiSourceData\TagReader\obj\Debug\TagReader.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\Accord.dll.config
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\TagReader.exe
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\TagReader.pdb
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Controls.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Genetic.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Imaging.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Imaging.Formats.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Math.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Neuro.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Video.DirectShow.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Video.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Vision.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\LLRP.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\LLRP.Impinj.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\log4net.dll
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Controls.pdb
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Controls.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Genetic.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Imaging.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Imaging.Formats.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Math.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Neuro.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Video.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Video.DirectShow.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\bin\Debug\AForge.Vision.xml
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.AboutBox.resources
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.FormTagReader.resources
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.ProgressWindow.resources
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.Properties.Resources.resources
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.SettingsWindow.resources
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.csproj.CopyComplete
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.exe
+D:\VisualStudio\Projects\MultiSourceDataCollection\TagReader\obj\Debug\TagReader.pdb
